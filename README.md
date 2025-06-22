@@ -1,7 +1,7 @@
 🚀 BookMySlot
 A full-stack scheduling app where users create events with available time slots, and others can book those slots easily — like a mini Calendly! Time zone aware and built for smooth user experience.
 
-📋 Project Overview
+📋 Project Overview:
 BookMySlot lets private users create events with multiple time slots and max bookings per slot. Public visitors can browse events, see available slots in their own time zone, and book slots by submitting their name and email. It prevents double bookings and full slots, ensuring smooth scheduling.
 
 🌟 Features
