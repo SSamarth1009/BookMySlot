@@ -115,4 +115,4 @@ Seamless deployment to Render and Vercel
 
 Clean modular code, environment config, and error handling
 
-This project demonstrates practical skills for building and deploying full-stack web applications, which align with SDE-1 expectations.
+This project demonstrates practical skills for building and deploying full-stack web applications.
