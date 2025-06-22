@@ -102,11 +102,17 @@ https://book-my-slot-nine.vercel.app
 
 ---
 
-## ⚙️ Running Locally
+## 🎉 Summary
+BookMySlot showcases:
 
-**Backend**
+Full REST API backend with Express and PostgreSQL
 
-```bash
-cd bookmyslot-backend
-npm install
-npm run dev  # Starts backend server with nodemon for auto-reload
+React frontend with TailwindCSS styling
+
+Timezone-safe booking system using Luxon
+
+Seamless deployment to Render and Vercel
+
+Clean modular code, environment config, and error handling
+
+This project demonstrates practical skills for building and deploying full-stack web applications, which align with SDE-1 expectations.
